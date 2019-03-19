@@ -11,3 +11,6 @@ This repository contains our research into planetes. Our research questions are:
   - * Question 2b
 * Question 3  
   
+---
+Contact us for suggestion on how you can help!
+---
